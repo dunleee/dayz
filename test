@@ -1,0 +1,1 @@
+$(user) appears & shoots at $(touser) with a $(eval a=[`BK18`,`M16`,`M4A1`];a[Math.floor(Math.random()*a.length)]).

@@ -1,0 +1,1 @@
+A wild $(user) appears & attacks $(touser)! $(user) uses $(eval a=$(urlfetch json PASTEBINLINKHERE);a[Math.floor(Math.random()*a.length)]). $(eval var a=["It misses...","It's super effective! $(touser) faints","It's not very effective... "]; a[Math.floor(Math.random()*a.length)];)!
